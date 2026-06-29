@@ -80,22 +80,19 @@ The following visualizations were created after data cleaning:
 
 ## 📁 Project Structure
 
-```
-Netflix-Data-Cleaning/
+day 1 29 june
+│
+├── charts/
+│   ├── content_by_year.png
+│   ├── distribution_of_content_ratings.png
+│   ├── movies_vs_tvshows.png
+│   ├── pie_chart.png
+│   └── top_10_countries_content.png
 │
 ├── netflix_titles.csv
 ├── netflix_titles_cleaned.csv
-├── Netflix_Data_Cleaning.ipynb
-├── README.md
-│
-└── screenshots/
-    ├── movies_vs_tvshows.png
-    ├── pie_chart.png
-    ├── top10_countries.png
-    ├── content_added_by_year.png
-    ├── top10_genres.png
-    └── rating_distribution.png
-```
+├── task1.ipynb
+└── README.md
 
 ---
 

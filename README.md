@@ -80,7 +80,8 @@ The following visualizations were created after data cleaning:
 
 ## 📁 Project Structure
 
-day 1 29 june
+```
+day 1 29 june/
 │
 ├── charts/
 │   ├── content_by_year.png
@@ -93,8 +94,7 @@ day 1 29 june
 ├── netflix_titles_cleaned.csv
 ├── task1.ipynb
 └── README.md
-
----
+```
 
 ## 🚀 Outcome
 
